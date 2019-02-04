@@ -1,0 +1,44 @@
+.heading {
+  height: 45px;
+  text-align: right;
+  
+  padding-top:5px;
+}
+.heading a{
+	margin: 10px;
+	text-decoration: none;
+	color: white;
+	padding-right: 10px;
+	padding-left: 5px;
+}
+.heading a:hover{
+	color: blue;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.mainDiv{
+	background-image: url('back2.jpg');
+	height: 100vh;
+	background-size: cover;
+}
+h2{
+	color: white;
+}
+.contactList{
+	padding-left:80px;
+	padding-top: 30px;
+}
+.contactList a{
+	text-decoration: none;
+	color: white;
+	
+}
+.contactList a:hover{
+	color: blue;
+}
+.active{
+    background-color: #336600;
+
+}

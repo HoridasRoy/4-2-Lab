@@ -1,0 +1,55 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+.mainDiv{
+	background-image: url('back2.jpg');
+	height: 100vh;
+	background-size: cover;
+	color: white;
+}
+ul{
+	color: greenyellow;
+	padding-left: 10px;
+}
+.heading {
+  height: 45px;
+  text-align: right;
+  
+  padding-top:5px;
+}
+.heading a{
+	margin: 5px;
+	text-decoration: none;
+	color: white;
+	padding-right: 10px;
+	padding-left: 5px;
+}
+.heading a:hover{
+	color: blue;
+}
+p{
+	padding-left: 20px;
+	
+}
+.primary{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.secondary{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.college{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.university{
+	padding-top: 20px;
+	padding-left: 30px;
+}
+.active{
+    background-color: #336600;
+
+}

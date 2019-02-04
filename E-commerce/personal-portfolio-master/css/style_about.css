@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.heading {
+  height: 45px;
+  text-align: right;
+  
+  padding-top:5px;
+}
+.heading a{
+    margin: 5px;
+    text-decoration: none;
+    color: white;
+    padding-right: 10px;
+    padding-left: 5px;
+
+}
+.heading a:hover{
+    color: blue;
+}
+
+article {
+    padding-top: 90px;
+    float: left;
+    padding-left:20px;
+    width: 70%;
+    color: white;
+    height: auto; 
+}
+
+
+section:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+ img{
+    padding: 20px;
+   
+}
+.mainDiv{
+    background-image: url('back2.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+.active{
+    background-color: #336600;
+
+}

@@ -1,0 +1,46 @@
+img{
+	margin: 5px;
+	padding: 10px;
+	transition: 1s;
+}
+.backImg{
+	background-image: url('back3.jpeg');
+	background-size: cover;
+}
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h2{
+	text-align: center;
+	color: white;
+	padding-top: 10px;
+}
+h2:hover{
+	color: blue;
+}
+
+img:hover{
+	filter: grayscale(100%);
+	transform: scale(1.1);
+}
+.heading {
+  height: 45px;
+  text-align: right;
+  
+  padding-top:5px;
+}
+.heading a{
+	margin: 5px;
+	text-decoration: none;
+	color: white;
+	padding-right: 10px;
+	padding-left: 5px;
+}
+.heading a:hover{
+	color: blue;
+}
+.active{
+    background-color: #336600;
+
+}

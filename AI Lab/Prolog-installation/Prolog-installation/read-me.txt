@@ -1,0 +1,14 @@
+Step 1: Install DosBox
+	
+
+Step 2: copy-paste prolog into your C drive.
+	
+Step 3: Open DosBox.
+
+Write-  
+	mount c c:\
+
+write-  
+	c:\prolog\prolog.exe
+
+Remeber: Mouse doesnt work in DOSBOX . So use your keyboard left,right,up,down arrow. Use enter for click. Use Esc in your keyboard to exit from one menu. 
